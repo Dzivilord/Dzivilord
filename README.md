@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dzivilord</h1>
+<h1 align="center">Hi 👋, My name is Loi Dinh</h1>
 <h3 align="center">A passionate and curious data scientist based in Vietnam. I have a strong interest in exploring diverse fields of technology, especially applying new technologies and machine learning to solve real-world problems</h3>
 
 - 🌱 I’m currently learning **docker and data engineering tools**
