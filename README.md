@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/viết lợi đinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viết lợi đinh" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/viết lợi đinh](https://www.linkedin.com/in/vi%E1%BA%BFt-l%E1%BB%A3i-%C4%91inh-115a14252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viết lợi đinh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
